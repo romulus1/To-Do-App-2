@@ -1,0 +1,32 @@
+body{
+	
+}
+
+.container{
+	width: 900px;
+	height: 600px;
+	margin-top: 40px;
+	background: #f1f1f1;
+	text-align: center;
+	padding-top: 30px;
+}
+
+#L{
+	text-align: center;
+	font-size: 50px;
+}
+
+#username{
+	padding-bottom: 20px;
+}
+
+#password{
+	padding-bottom: 20px;
+}
+
+#box1{
+	border: 1px solid black;
+}
+#box2{
+	border: 1px solid black;
+}

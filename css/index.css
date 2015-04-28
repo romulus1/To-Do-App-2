@@ -1,0 +1,27 @@
+body{
+	
+}
+.container{
+	width: 900px;
+	height: 600px;
+	margin-top: 40px;
+	background: #f1f1f1;
+	text-align: center;
+	padding-top: 30px;
+}
+
+#login{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+
+#register{
+	text-align: center;
+	font-size: 25px;
+}
+
+#intro{
+	font-size: 25px;
+	padding-bottom: 10px;
+}
